@@ -1,0 +1,6 @@
+framework module SampleYMLApiLibrary {
+    umbrella header "SampleYMLApiLibrary.h"
+
+    export *
+    module * { export * }
+}
